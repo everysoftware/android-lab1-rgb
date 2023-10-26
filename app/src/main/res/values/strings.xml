@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGB</string>
+    <string name="main_title">RGB</string>
+    <string name="main_desc">Enter color: red, green or blue.</string>
+    <string name="edit_text_hint">Color</string>
+    <string name="go_button_text">Go</string>
+    <string name="back_button_text">Back</string>
+    <string name="color_desc">Now you see the color you selected! 😊</string>
+</resources>
