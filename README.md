@@ -12,14 +12,17 @@
 <details>
   <summary>Скриншоты приложения</summary>
 
-  ![Screenshot_20231026_184407](https://github.com/everysoftware/android-lab1-rgb/assets/22497421/2d15d89d-1891-43e6-be00-c268b7bf8b8e)
-  
+  <img src="https://github.com/everysoftware/android-lab1-rgb/assets/22497421/2d15d89d-1891-43e6-be00-c268b7bf8b8e" width="300" />  
+
 </details>
+
 
 <details>
   <summary>Демонстрация работы</summary>
 
-  ![Screen_recording_20231026_184200](https://github.com/everysoftware/android-lab1-rgb/assets/22497421/979459d1-1d82-4aa0-acfb-11018b9c0686)
+  [YouTube](https://youtube.com/shorts/BmOFi4hG_1o?feature=share)  
+  
+  <img src="https://github.com/everysoftware/android-lab1-rgb/assets/22497421/979459d1-1d82-4aa0-acfb-11018b9c0686" width="300" />
 
 </details>
 
